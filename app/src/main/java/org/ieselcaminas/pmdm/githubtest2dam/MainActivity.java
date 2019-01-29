@@ -29,8 +29,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private void b3_method_Alex() {
 
+    private void b3_method_Alex() {
+        Toast.makeText(this, "Alex Bogdan", Toast.LENGTH_LONG).show();
     }
 
     private void b4_method_Sergi() {
