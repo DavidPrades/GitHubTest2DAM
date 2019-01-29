@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void b2_method_Alejandro() {
-
+        // added a new comment
     }
 
     private void b3_method_Alex() {
