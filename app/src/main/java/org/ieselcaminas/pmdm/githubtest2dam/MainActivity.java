@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void b1_method_Victor() {
-        Toast.makeText(this, "Victor Alonso", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "Victor Alonso Barberan", Toast.LENGTH_LONG).show();
     }
 
     private void b2_method_Alejandro() {
@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void b6_method_Jonatan() {
+        Toast.makeText(this, "Jonatan Escrig", Toast.LENGTH_LONG).show();
 
     }
 
@@ -66,6 +67,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void b12_method_Petru() {
+        Toast.makeText(this, "Alex Petru", Toast.LENGTH_LONG).show();
 
     }
 
