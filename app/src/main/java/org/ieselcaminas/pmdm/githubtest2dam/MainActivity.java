@@ -2,6 +2,7 @@ package org.ieselcaminas.pmdm.githubtest2dam;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
 import android.widget.GridLayout;
 import android.widget.Toast;
@@ -22,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void b1_method_Victor() {
-        Toast.makeText(this, "Victor Alonso", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "Victor Alonso Barberan", Toast.LENGTH_LONG).show();
     }
 
     private void b2_method_Alejandro() {
@@ -39,10 +40,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void b5_method_Agustin() {
-
+        Toast.makeText(this, "Agustin Domingo", Toast.LENGTH_LONG).show();
     }
 
     private void b6_method_Jonatan() {
+        Toast.makeText(this, "Jonatan Escrig", Toast.LENGTH_LONG).show();
 
     }
 
@@ -67,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void b12_method_Petru() {
+        Toast.makeText(this, "Alex Petru", Toast.LENGTH_LONG).show();
 
     }
 
@@ -79,6 +82,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void b15_method_Ferran() {
-
+        Toast.makeText(this, "Ferran",Toast.LENGTH_SHORT).show();
     }
 }
