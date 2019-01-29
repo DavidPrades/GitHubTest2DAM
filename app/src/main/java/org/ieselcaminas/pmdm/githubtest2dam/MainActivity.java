@@ -9,6 +9,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     // Just a comment
+    // change 1
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
