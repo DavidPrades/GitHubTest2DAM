@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void b1_method_Victor() {
-        Toast.makeText(this, "Victor Alonso Barberán.....", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "Victor Alonso Barberán.....XXXXX", Toast.LENGTH_LONG).show();
     }
 
     private void b2_method_Alejandro() {
