@@ -66,6 +66,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void b12_method_Petru() {
+        Toast.makeText(this, "Alex Petru", Toast.LENGTH_LONG).show();
 
     }
 
