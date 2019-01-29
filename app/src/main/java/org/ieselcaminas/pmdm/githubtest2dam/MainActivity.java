@@ -7,10 +7,7 @@ import android.widget.GridLayout;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
-    // Just a comment
-    // change 1
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,11 +22,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void b1_method_Victor() {
-        Toast.makeText(this, "Victor Alonso Barberán.....XXXXX", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "Victor Alonso", Toast.LENGTH_LONG).show();
     }
 
     private void b2_method_Alejandro() {
-        // added a new comment
+
     }
 
     private void b3_method_Alex() {
@@ -84,5 +81,3 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
-
-// end comment
