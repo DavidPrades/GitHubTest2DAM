@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void b6_method_Jonatan() {
+        Toast.makeText(this, "Jonatan Escrig", Toast.LENGTH_LONG).show();
 
     }
 
