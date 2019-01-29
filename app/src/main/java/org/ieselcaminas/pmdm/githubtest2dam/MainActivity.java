@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void b4_method_Sergi() {
-
+        Toast.makeText(this, "Sergi Cornelles Aguilar", Toast.LENGTH_LONG).show();
     }
 
     private void b5_method_Agustin() {
