@@ -71,6 +71,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void b13_method_David() {
 
+        Toast.makeText(this, "David Prades", Toast.LENGTH_LONG).show();
     }
 
     private void b14_method_Francesc() {
